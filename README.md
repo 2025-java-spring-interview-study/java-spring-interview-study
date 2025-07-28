@@ -67,8 +67,8 @@
 | 발표자  | 주제 | 자료 링크                                          |
 |------|------|------------------------------------------------|
 | 이나라힘 | Java 기초 및 JVM 구조 | [day01/skfkgla.md](day01/skfkgla.md)           |
-| 조유민  | Java 기초 및 JVM 구조 | [day01/Umin73.md](day02/Umin73.md) |
-| 박지수  | Java 기초 및 JVM 구조 | [day01/Jisupark-dev.md](day01/Jisupark-dev.md)           |
-| 김서현  | Java 기초 및 JVM 구조 | [day01/se-ize.md](day01/se-ize.md)           |
+| 조유민  | Java 기초 및 JVM 구조 | [day01/Umin73.md](day01/Umin73.md)             |
+| 박지수  | Java 기초 및 JVM 구조 | [day01/Jisupark-dev.md](day01/Jisupark-dev.md) |
+| 김서현  | Java 기초 및 JVM 구조 | [day01/se-ize.md](day01/se-ize.md)             |
 
 ---
