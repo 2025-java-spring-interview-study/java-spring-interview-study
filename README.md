@@ -76,8 +76,8 @@
 
 | 발표자  | 주제 | 자료 링크                                |
 |------|------|--------------------------------------|
-| 이나라힘 | Java 심화 및 JPA | [day01/skfkgla.md](day02/skfkgla.md) |
+| 이나라힘 | Java 심화 및 JPA | [day02/skfkgla.md](day02/skfkgla.md) |
 | 조유민  | Java 심화 및 JPA |                                      |
 | 박지수  | Java 심화 및 JPA |                                      |
-| 김서현  | Java 심화 및 JPA | [day01/se-ize.md](day02/se-ize.md)   |
+| 김서현  | Java 심화 및 JPA | [day02/se-ize.md](day02/se-ize.md)   |
 ---
