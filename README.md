@@ -77,7 +77,16 @@
 | 발표자  | 주제 | 자료 링크                                |
 |------|------|--------------------------------------|
 | 이나라힘 | Java 심화 및 JPA | [day02/skfkgla.md](day02/skfkgla.md) |
-| 조유민  | Java 심화 및 JPA |                                      |
+| 조유민  | Java 심화 및 JPA | [day02/Umin73.md](day02/Umin73.md)   |
 | 박지수  | Java 심화 및 JPA |                                      |
 | 김서현  | Java 심화 및 JPA | [day02/se-ize.md](day02/se-ize.md)   |
+---
+### ✅ 3일차 (2025.08.04) - Spring 프레임워크 및 JPA
+
+| 발표자  | 주제 | 자료 링크                                |
+|------|------|--------------------------------------|
+| 이나라힘 | Spring 프레임워크 | [day03/skfkgla.md](day03/skfkgla.md) |
+| 조유민  | Spring 기초 | [day03/Umin73.md](day03/Umin73.md)   |
+| 박지수  | Spring 프레임워크 |                                      |
+| 김서현  | Spring 기초 및 JPA | [day03/se-ize.md](day03/se-ize.md)   |
 ---
